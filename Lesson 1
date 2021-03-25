@@ -1,0 +1,26 @@
+//Задание №1
+
+var temDeg = prompt("Temperature in degrees:");
+var result = (9/5)*temDeg+32;
+alert (result);
+console.log ("Temperature in fahrenheit: " + result);
+
+
+// Задание №2
+
+var admin;
+var name;
+name = "Василий"
+admin = name;
+alert ("Name is: " + admin);
+console.log ("Name is: " + admin);
+
+// Задание №3
+
+var ValueNum = 1000;
+var ValueText = "108";
+var FinalResult = ValueNum  + ValueText;
+alert ("Result = " + FinalResult);
+console.log ("Result = " + FinalResult);
+// результат = 1000108
+
