@@ -24,3 +24,4 @@ alert ("Result = " + FinalResult);
 console.log ("Result = " + FinalResult);
 // результат = 1000108
 
+
